@@ -1,6 +1,6 @@
-# Creative Code Repository
 
-Welcome to my creative code repository! 🎨✨
+
+Welcome to my CPI code repository! 🎨✨
 
 ## Project Descriptions
 
@@ -22,17 +22,17 @@ Include instructions on how to run each project in this section. For example:
 
 ### Colorful Canvas
 
-1. Clone the repository: `git clone https://github.com/your-username/colorful-canvas.git`
+1. Clone the repository: `git clone https://github.com/Ishaak22/colorful-canvas.git`
 2. Open `index.html` in your preferred web browser.
 
 ### Poetry Generator
 
-1. Clone the repository: `git clone https://github.com/your-username/poetry-generator.git`
+1. Clone the repository: `git clone https://github.com/Ishaak22/poetry-generator.git`
 2. Navigate to the project folder and run `python main.py`.
 
 ### Interactive Storybook
 
-1. Clone the repository: `git clone https://github.com/your-username/interactive-storybook.git`
+1. Clone the repository: `git clone https://github.com/Ishaak22/interactive-storybook.git`
 2. Follow instructions in the `README.md` of the project.
 
 ## Contributions
